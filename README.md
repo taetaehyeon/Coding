@@ -1,2 +1,0 @@
-# StartingCode
-Everything
